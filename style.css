@@ -1,0 +1,143 @@
+body {
+  background-image: url(background.jpg);
+  width: 1000px;
+  background-size: 2132px 1613px;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+.container {
+  border-radius: 15px;
+  width: 1254px;
+  height: 1012px;
+  margin-top: 81px;
+  margin-bottom: 226px;
+  margin-right: 88px;
+  margin-left: 395px;
+  padding: 20px;
+  position: relative;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+header {
+  text-align: center;
+}
+
+.lim {
+  width: 1086px;
+  height: 267px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 125px;
+  margin-left: 52px;
+}
+
+h1 {
+  display: inline-block;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 50px;
+}
+
+input {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 50px;
+}
+
+.logo-png {
+  width: 279px;
+  text-align: center;
+  margin-top: 91px;
+  margin-bottom: 0px;
+  margin-right: 6px;
+  margin-left: 11px;
+}
+
+.titolo {
+  font-size: 42px;
+  font-style: normal;
+  color: lime;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.navigare {
+  background-color: lime;
+  margin: auto;
+  padding: 10px;
+  width: 1120px;
+}
+
+.testo1 {
+  font-style: normal;
+  color: white;
+  margin-top: 19px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.energy1 {
+  background-color: orange;
+  width: 360px;
+  height: 26px;
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 50px;
+}
+
+.testo2 {
+  color: white;
+  margin-top: 22px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
+.energy2 {
+  background-color: green;
+  width: 620px;
+  height: 26px;
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 50px;
+}
+
+.testo3 {
+  color: white;
+  margin-top: 29px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 5px px;
+}
+
+.energy3 {
+  background-color: red;
+  width: 120px;
+  height: 26px;
+  border-radius: 5px;
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 50px;
+}
